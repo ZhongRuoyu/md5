@@ -1,0 +1,6 @@
+*.o
+libmd5.a
+libmd5.dylib
+libmd5.so
+md5
+md5sum
